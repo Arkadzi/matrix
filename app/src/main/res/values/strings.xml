@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Matrix</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rows">Rows</string>
+    <string name="cols">Cols</string>
+    <string name="rowPosition">Row position</string>
+    <string name="colsPosition">Cols position</string>
+</resources>
