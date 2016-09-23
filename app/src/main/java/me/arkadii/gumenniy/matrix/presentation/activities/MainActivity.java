@@ -1,10 +1,15 @@
-package me.arkadii.gumenniy.matrix;
+package me.arkadii.gumenniy.matrix.presentation.activities;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import me.arkadii.gumenniy.matrix.Algorithm;
+import me.arkadii.gumenniy.matrix.R;
+import me.arkadii.gumenniy.matrix.presentation.fragments.InputFragment;
+import me.arkadii.gumenniy.matrix.presentation.fragments.MatrixFragment;
 
 public class MainActivity extends AppCompatActivity implements InputFragment.OnUserInputListener {
 

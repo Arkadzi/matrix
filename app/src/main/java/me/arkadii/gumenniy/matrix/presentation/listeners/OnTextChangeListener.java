@@ -1,4 +1,4 @@
-package me.arkadii.gumenniy.matrix;
+package me.arkadii.gumenniy.matrix.presentation.listeners;
 
 import android.text.Editable;
 import android.text.TextWatcher;
