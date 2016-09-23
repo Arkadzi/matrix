@@ -2,13 +2,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="@dimen/matrix_margin"
     tools:context=".presentation.fragments.MatrixFragment">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_matrix"
         android:layout_width="match_parent"
-        android:overScrollMode="never"
-        android:layout_margin="@dimen/matrix_margin"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:overScrollMode="never" />
 
 </FrameLayout>
